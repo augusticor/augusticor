@@ -3,7 +3,7 @@
 + 🔭 I’m currently working on something
 + 🌱 I’m currently learning more frontend tools
 
-## Some links related to me
+**Some links related to me:**
 
 + [LinkedIn](https://www.linkedin.com/in/augusticor/)
 + [YouTube](https://www.youtube.com/channel/UC0_5DKWPKfTCu6S8Bs1QihA)
