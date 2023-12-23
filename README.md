@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**augusticor/augusticor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 🔭 I’m currently working on something
++ 🌱 I’m currently learning more frontend tools
 
-Here are some ideas to get you started:
+## Some links related to me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ [LinkedIn](https://www.linkedin.com/in/augusticor/)
++ [YouTube](https://www.youtube.com/channel/UC0_5DKWPKfTCu6S8Bs1QihA)
++ [Stack Overflow](https://stackoverflow.com/users/8455517/augusticor?tab=profile)
++ [Linktree](https://linktr.ee/augusticor)
+
+> Nothing fancy, but something is better than nothing
