@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## I am Oscar and I'm a software engineer
+
 + 🔭 I’m currently working on updating my personal projects
 + 🌱 I’m currently learning Next.js
 
