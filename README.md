@@ -2,8 +2,8 @@
 
 ## I am Oscar and I'm a software engineer
 
-+ 🔭 I’m currently relaxing my mind
-+ 🌱 I’m currently aiming to learn devops and aws
++ 🧘‍♂️ I’m currently working
++ 🌱 I’m currently aiming to grow
 
 **Some links related to me:**
 
