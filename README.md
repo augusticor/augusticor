@@ -1,14 +1,15 @@
 # Hi there 👋
 
-## I am Oscar and I'm a software engineer
+## I'm Oscar, Software Engineer
 
-+ 🧘‍♂️ I’m currently working
-+ 🌱 I’m currently aiming to grow
++ 💻 I’m currently working
++ 🌱 Never stop learning new things
++ 📚 Reading
 
 **Some links related to me:**
 
 + [LinkedIn](https://www.linkedin.com/in/augusticor/)
-+ [YouTube](https://www.youtube.com/channel/UC0_5DKWPKfTCu6S8Bs1QihA)
++ [YouTube](https://www.youtube.com/@augusticor)
 + [Stack Overflow](https://stackoverflow.com/users/8455517/augusticor?tab=profile)
 + [Linktree](https://linktr.ee/augusticor)
 
