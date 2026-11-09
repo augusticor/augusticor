@@ -8,7 +8,7 @@
 
 **Some links related to me:**
 
-+ [LinkedIn](https://www.linkedin.com/in/augusticor/)
++ [LinkedIn](https://www.linkedin.com/in/oscar-augusto-rojas/)
 + [YouTube](https://www.youtube.com/@augusticor)
 + [Stack Overflow](https://stackoverflow.com/users/8455517/augusticor?tab=profile)
 + [Linktree](https://linktr.ee/augusticor)
